@@ -14,7 +14,6 @@
 
 
 *{
-  /*width : 100%;*/
  box-sizing: border-box;
   
 }
@@ -29,13 +28,44 @@ body {
   display: flex;
   justify-content: space-between;
 }
+.nav{
+  display: flex;
+  justify-content: flex-end;
+}
 .nav_list {
   list-style: none;
   display: flex;
   justify-content: space-between;
 }
+
 .nav_item {
-  margin-left: 2rem;
-  margin-right: 2rem;
+  margin-left: 1.5rem;
+  margin-right: 1.5rem;
+
+}
+#home{
+  margin-left: auto;
+}
+#menu{
+  display: none;
 }
 
+.hero-section{
+  display: flex;
+  flex-direction: row;
+}
+.hero-img{
+  max-width: 1000px;
+}
+#image{
+  width: 100%;
+}
+
+
+
+.more-reads{
+  display: flex;
+}
+.reads{
+  display: flex;
+}
