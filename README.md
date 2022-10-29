@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github repository](https://github.com/Ade-yem/news-homepage)
-- Live Site URL: [Add live site URL here](https://news-hm-page.netlify.app/)
+- Live Site URL: [Live site URL](https://news-hm-page.netlify.app/)
 
 ### Built with
 
