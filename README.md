@@ -8,14 +8,10 @@ This is a solution to the [News homepage challenge on Frontend Mentor](https://w
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
 
 ## Overview
 
@@ -34,9 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
+- Solution URL: [Github repository](https://github.com/Ade-yem/news-homepage)
+- Live Site URL: [Add live site URL here](https://news-hm-page.netlify.app/)
 
 ### Built with
 
@@ -48,10 +43,9 @@ Users should be able to:
 
 I found a way to make my overall styles more presentable and easier with some code snippets i found online . The styles are in the [universal css](./css/universal.css) file.
 
-
 ### Useful resources
 
-- [W3 schools](https://www.w3schools.com/howto/howto_js_sidenav.asp) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
+- [W3 schools](https://www.w3schools.com/howto/howto_js_sidenav.asp) - This helped me to create the side navigation bar for the  mobile view.
 
 ## Author
 
